@@ -1,4 +1,4 @@
-package cn.edu.nupt.hadoop_hdfs_test;
+package cn.edu.nupt.hadoop.hdfs_test;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

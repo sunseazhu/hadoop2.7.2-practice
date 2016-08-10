@@ -10,4 +10,4 @@
  *	@author zhuxy
  *	2016年8月4日 下午9:22:45
  */
-package cn.edu.nupt.hadoop_hdfs_test;
+package cn.edu.nupt.hadoop.hdfs_test;
