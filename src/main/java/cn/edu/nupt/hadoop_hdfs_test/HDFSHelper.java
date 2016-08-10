@@ -127,5 +127,4 @@ public class HDFSHelper {
 		System.out.println("Hello World!");
 		new HDFSHelper().downloadFromHDFS();
 	}
-
 }
